@@ -54,4 +54,6 @@ Penjelasan Syntax:
 - terdapat penggunaan fungsi CASE untuk menentukan nilai dari kolom persentase_gross_laba dan nett_profit berdasarkan nilai dari kolom price.
 - perintah LIMIT digunakan untuk membatasi jumlah baris hasil query yang ditampilkan, dalam hal ini 672461 baris.
 
+![alt text](https://github.com/nasywahdarraini20/finaltask/blob/main/final%20transaction.png?raw=true)
+
 
