@@ -17,6 +17,8 @@ SELECT * FROM `kantor-cabang-418907.kf_kantor_cabang.kantor_cabang` LIMIT 1728
 Penjelasan syntax: 
 Mengambil semua kolom dari transaction dengan membatasi jumlah baris yaitu 1728 baris 
 
+![alt text](https://github.com/nasywahdarraini20/finaltask/blob/main/kantor%20cabang.png?raw=true) 
+
 2. Challenge
 
 Syntax BigQuery Tabel Final Transaction: 
